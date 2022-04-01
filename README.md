@@ -21,6 +21,6 @@ Por se tratar de uma organização que contem dados sigilosos e de extrema impor
 
 3- Integridade - as informações do sistema devem ser armazenadas e exibidas do mesmo modo como foram criados, sem que haja interferência externa para corrompê-las, comprometê-las ou danificá-las.
 
-4- Autenticidade - o sistema deve prover 
+4- Autenticidade - o sistema deve garantir que o usuário que está acessando o sistema e suas informações seja realmente quem ele alega ser.
 
-5- Inteface amigável - O sistema deve ter interface amigável e deve ser de fácil utilização, para que os usuários queiram aderir rapidamente a utilização do mesmo, abandonando o processo antigo.
+5- Não repúdio - O sistema deve conter serviços que possam fornecer prova de integridade e da origem dos dados. Os serviços devem ser capazes de não permitir que a integridade seja forjada e devem permitir que sejam verificados por terceiros, garantindo que os dados são genuínos e que não podem ser refutados. 
