@@ -24,3 +24,17 @@ Por se tratar de uma organização que contem dados sigilosos e de extrema impor
 4- Autenticidade - o sistema deve garantir que o usuário que está acessando o sistema e suas informações seja realmente quem ele alega ser.
 
 5- Não repúdio - O sistema deve conter serviços que possam fornecer prova de integridade e da origem dos dados. Os serviços devem ser capazes de não permitir que a integridade seja forjada e devem permitir que sejam verificados por terceiros, garantindo que os dados são genuínos e que não podem ser refutados. 
+
+6- O sistema deve estar integrado ao sistema do RH.
+
+Papéis dentro do sistema
+
+1 - Usuário: pode pesquisar documentos (Qualquer pessoa na organização é um usuário).
+
+2- Funcionário do PMSE: pode pesquisar documentos e incluir documentos pessoais destinados ao RH e/ou para  seu superior direto e/ou para o setor médico.
+
+3 - Editor: cada setor possui um ou mais editores responsáveis por inserir no sistema documentos antigos. Esses documentos devem ser inputados no sistema através da digitalização.
+
+4- Gerente: responsável pela atribuição de funções em seu setor.
+
+5- Administrador: responsável pelo cadastro de novos gerentes.
