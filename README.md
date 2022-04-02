@@ -40,6 +40,7 @@ Papéis dentro do sistema:
   5- Administrador: responsável pelo cadastro de novos gerentes.
   
   Principais funcionalidades do sistema:
+  
   1 - Cadastrar gerentes
     
     2- Atribuir funções (perfil de acesso) aos usuários
