@@ -46,8 +46,12 @@ Papéis dentro do sistema:
     2- Atribuir funções (perfil de acesso) aos usuários
     
     3- Consultar documentos
+      3.1 - Incluir auditoria nos dados consutados
     
-    4- Upload de documentos
+    4- Cadastrar documentos
+      4.1 - Realizar upload
+      4.2 - Processar documentos (transformar o documento digital em texto)
+      4.3- Incluir auditoria nos dados incluidos
     
     5- Aprovar documentos
     
@@ -55,9 +59,8 @@ Papéis dentro do sistema:
     
     7- Autenticar usuário
     
-    8 -  Validar permissoes de acesso
-    
-    9-  Processar documentos (transformar o documento digital em texto)
+      7.1  Validar permissoes de acesso
+
     
     10 - Incluir auditoria nos dados incluidos, consutados e alterados
      
