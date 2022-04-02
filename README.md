@@ -4,7 +4,7 @@ Projeto de gerenciamento eletrônico de documentos da PMSE
 O objetivo desse projeto é desenvolver um sistema de gerenciamento eletrônico de documentos para a PMSE. O sistema deve permitir que os usuários realizem o upload dos seus documentos digitalizados e o sistema deve processar o documento digitalizado tranformando o mesmo em um texto. O sistema deve disponibiizar interface amigável para busca desses documentos. 
 
 O que motivou a concepção desse projeto:
-
+   
   1 - Falta de espaço físico para armazenar a documentação gerada em papel;
 
   2- Necessidade de transparência no acesso à informação;
@@ -43,23 +43,27 @@ Papéis dentro do sistema:
   
   1 - Cadastrar gerentes
     
-    2- Atribuir funções (perfil de acesso) aos usuários
+  2- Atribuir funções (perfil de acesso) aos usuários
     
-    3- Consultar documentos
-      3.1 - Incluir auditoria nos dados consutados
+ 3- Consultar documentos
+ 
+ 3.1 - Incluir auditoria nos dados consutados
     
-    4- Cadastrar documentos
-      4.1 - Realizar upload
-      4.2 - Processar documentos (transformar o documento digital em texto)
-      4.3- Incluir auditoria nos dados incluidos
+ 4- Cadastrar documentos
+ 
+ 4.1 - Realizar upload
     
-    5- Aprovar documentos
+ 4.2 - Processar documentos (transformar o documento digital em texto)
     
-    6- Cadastrar biometria
+ 4.3- Incluir auditoria nos dados incluidos
     
-    7- Autenticar usuário
+ 5- Aprovar documentos
     
-      7.1  Validar permissoes de acesso
+ 6- Cadastrar biometria
+    
+ 7- Autenticar usuário
+    
+ 7.1  Validar permissoes de acesso
   
    
      
